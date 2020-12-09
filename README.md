@@ -1,8 +1,4 @@
-# Getting Started with Angular: My First App
-
-I named this app : **angular-oneapp-store**
-
-> This app is help you understand how angular works and if you are new to angular.
+# Getting Started with Angular
 
 You can find the link to their official docs [Getting Started with Angular: Your First App](https://angular.io/start).
 
