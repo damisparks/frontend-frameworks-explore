@@ -1,3 +1,5 @@
-# Deep Dive into Angular (DDA)
+# Frontend Frameworks Explore (FFE)
 
-This project provides you with a deep dive into Angular.
+This project provides you with overview into few frontend frameworks.
+
+TBC...
